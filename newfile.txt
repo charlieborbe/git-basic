@@ -1,3 +1,6 @@
 git add - command that is used to add file contents to the Index (Staging Area).
 This command updates the current content of the working tree to the staging area. 
 It also prepares the staged content for the next commit.
+
+git commit - command is the main function for saving changes to local repository safely.
+Commit takes a snapshot of the project and treats it as a version.
