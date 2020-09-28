@@ -4,3 +4,6 @@ It also prepares the staged content for the next commit.
 
 git commit - command is the main function for saving changes to local repository safely.
 Commit takes a snapshot of the project and treats it as a version.
+
+git push - to push commits made on your local branch to a remote repository. The git push 
+command takes two arguments: A remote name, example: "origin" and A branch name, example: "master"
